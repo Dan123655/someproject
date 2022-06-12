@@ -1,0 +1,14 @@
+#myDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn {
+    position: absolute;
+    top:50%;
+    border:none;
+    border-radius:10px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(208, 245, 0);
+}
